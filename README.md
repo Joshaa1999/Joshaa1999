@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Joshaa1999
+- 👀 I’m interested in game development and improving my skills
+- 🌱 I’m currently learning C++
